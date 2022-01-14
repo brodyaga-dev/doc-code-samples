@@ -8,9 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "algoliasearch": "^4.0.1",
+    "algoliasearch": "4.10.5",
     "classnames": "2.2.6",
-    "instantsearch.js": "^4.5.0",
+    "instantsearch.js": "4.30.2",
     "vue": "2.6.10",
     "vue-instantsearch": "3.0.3",
     "vue-slider-component": "3.0.32"
@@ -19,7 +19,7 @@
     "@vue/cli-plugin-babel": "3.8.0",
     "@vue/cli-plugin-eslint": "3.8.0",
     "@vue/cli-service": "3.8.0",
-    "@vue/eslint-config-prettier": "^6.0.0",
+    "@vue/eslint-config-prettier": "6.0.0",
     "babel-eslint": "10.0.1",
     "eslint": "5.9.0",
     "eslint-plugin-prettier": "3.3.1",

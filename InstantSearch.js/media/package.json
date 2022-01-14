@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "algoliasearch": "4.1.0",
-    "instantsearch.js": "^4.30.2"
+    "instantsearch.js": "4.30.2"
   },
   "devDependencies": {
     "babel-eslint": "10.0.3",

@@ -9,15 +9,15 @@
     "build:server": "SSR_TARGET=server vue-cli-service build --dest dist/server"
   },
   "dependencies": {
-    "algoliasearch": "^4.10.3",
-    "core-js": "^3.6.5",
-    "express": "^4.17.1",
+    "algoliasearch": "4.10.3",
+    "core-js": "3.15.2",
+    "express": "4.17.1",
     "qs": "6.5.1",
     "vue": "3.1.5",
     "vue-instantsearch": "4.0.0",
-    "vue-router": "^4.0.10",
-    "webpack-manifest-plugin": "^2.2.0",
-    "webpack-node-externals": "^2.5.1"
+    "vue-router": "4.0.10",
+    "webpack-manifest-plugin": "2.2.0",
+    "webpack-node-externals": "2.5.2"
   },
   "devDependencies": {
     "@vue/server-renderer": "3.1.5",
